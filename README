@@ -14,3 +14,5 @@ Example:
 
     java -jar batch-insert-bug-1.0-SNAPSHOT.jar mysql 1
 
+
+Changing DB connection info: change the lines in the Java code.
